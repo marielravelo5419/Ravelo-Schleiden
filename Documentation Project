@@ -1,0 +1,14 @@
+1. Project Title
+  Higher or Lower (game)
+
+2. What is the purpose of your project? or explain about your project.
+  It develops critical thinking skills by analyzing and making strategic decisions. 
+
+3. How to run your project or program?
+  a. Save the code in a file with a .py extension (example: Higher_or_Lower.py).
+  b. Make sure the code is in the right place or position (this means saving it in a folder where you can esily access it).
+  c. Open a terminal or command prompt.
+  d. Navigate to the directory where you saved your Python file using the cd command (example: cd desktop if you saved it on your desktop).
+  e. Type python
+    Higher_or_Lower.py (replace Higher_or_Lower.py with your actual file name) to run the program.
+  f. Follow the prompts within the program, respond to the on-screen instructions by typing 'higher' or 'lower' and then press Enter to continue.
